@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 29, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Avery Hinchman)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment uses a recipe display application.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://averyhinchman.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Making new files.)
+2. (Color use in display.)
+3. (How to duplicate files.)
 
